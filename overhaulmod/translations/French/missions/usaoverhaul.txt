@@ -1,0 +1,25 @@
+[config]
+name  = usaoverhaul
+guiname = "2021 | États-Unis d'Amérique"
+description = "Les États-Unis d'Amérique sont le troisième ou quatrième plus grand pays du monde en termes de superficie totale, et le troisième pays le plus peuplé du monde. Les Américains constituent une population racialement et ethniquement diversifiée, façonnée par des siècles d'immigration. Les États-Unis sont une république fédérale et une démocratie représentative. C'est un membre fondateur des Nations unies, de la Banque mondiale, du Fonds monétaire international et de l'OTAN. Les États-Unis sont un membre permanent du Conseil de sécurité des Nations unies."
+jobtitle = "Président"
+
+[stats]
+Capital: = "Washington D.C."
+Population: = "328 million (Janvier 2020)"
+Superficie: = "9.8 million km2"
+La plus grande ville: = "New York"
+Religion: = "71% Christianisme, 23% Athée, 2% Juif"
+Ethnicité: = "76.5% Blanc, 18.3% Latino, 13.4% Noir"
+Hymne national: = "The Star-Spangled Banner"
+Choix de la destination touristique: = "Le Grand Canyon"
+Le citoyen le plus riche: = "Jeff Bezos (2020)"
+
+
+
+
+
+
+
+
+
